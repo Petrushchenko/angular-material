@@ -1,0 +1,14 @@
+
+html {
+	font-size: 10px;
+}
+.wrapper {
+	width: 90%;
+	margin: 0 auto;
+}
+button {
+	display: block;
+	width: 80%;
+	margin: 0 auto;
+	height: 2rem;
+}
